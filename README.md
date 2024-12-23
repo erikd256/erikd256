@@ -6,4 +6,4 @@
 - [Organic Maps](https://github.com/erikd256/organicmaps)
 
 
-![picsum image](https://picsum.photos/600/600)
+![picsum image](https://picsum.photos/id/183/2316/1544)
